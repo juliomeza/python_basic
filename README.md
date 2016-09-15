@@ -1,1 +1,1 @@
-This repository contains some basic codes.
+This repository contains some python basic codes.
